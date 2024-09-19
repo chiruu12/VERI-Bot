@@ -23,21 +23,23 @@ VERI-Bot is an advanced AI-powered chatbot designed to assist users by answering
 - **Python Libraries**: Includes `langchain`, `pinecone`, `cohere`, and `youtube-transcript-api` for handling various functionalities.
 
 ## How to use 
+### Home page
+    ![Home page](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_home.png)
 
 ### 1. Uploading PDFs to Update Knowledge Base
 Users can easily upload PDFs through the sidebar. VERI-Bot will automatically extract the content and update its knowledge base.
    
-![PDF Upload Example]()
+![PDF Upload Example](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_pdf.png)
 
 ### 2. Research Paper Retrieval
 You can retrieve relevant research papers based on your query using VERI-Bot's seamless integration with arXiv and Google Scholar.
    
-![Research Paper Retrieval Example]()
+![Research Paper Retrieval Example](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_research_paper.png)
 
 ### 3. YouTube Video Transcripts
 Enter a YouTube video URL, and VERI-Bot will extract the transcript and analyze the content to answer questions.
    
-![YouTube Transcript Example]()
+![YouTube Transcript Example](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_youtube_videos.png)
 
 ## Getting Started
 ### Prerequisites
@@ -108,6 +110,12 @@ Enter a YouTube video URL, and VERI-Bot will extract the transcript and analyze 
 
 5. **Access the Application**:
    Open your web browser and go to: http://localhost:8501
+
+6. **Stopping the docker image**:
+   Use `docker stop <your container id>` to stop the container and then u can use ` docker rm <your container id>` to delete the container 
+ 
+7. **Deleting the image**:
+   Use `docker rmi <your image name>` to delete the image
 
 ### Usage 
 1. Upload PDFs: Users can upload PDFs through the sidebar to update the chatbot's knowledge base dynamically.
