@@ -24,22 +24,24 @@ VERI-Bot is an advanced AI-powered chatbot designed to assist users by answering
 
 ## How to use 
 ### Home page
-    ![Home page](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_home.png)
+This is how the home page looks like!
+
+![Home page](https://github.com/chiruu12/VERI-Bot/blob/main/assets/veri_bot_home.png)
 
 ### 1. Uploading PDFs to Update Knowledge Base
 Users can easily upload PDFs through the sidebar. VERI-Bot will automatically extract the content and update its knowledge base.
    
-![PDF Upload Example](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_pdf.png)
+![PDF Upload Example](https://github.com/chiruu12/VERI-Bot/blob/main/assets/veri_bot_home.png)
 
 ### 2. Research Paper Retrieval
 You can retrieve relevant research papers based on your query using VERI-Bot's seamless integration with arXiv and Google Scholar.
    
-![Research Paper Retrieval Example](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_research_paper.png)
+![Research Paper Retrieval Example](https://github.com/chiruu12/VERI-Bot/blob/main/assets/veri_bot_research_paper.png)
 
 ### 3. YouTube Video Transcripts
 Enter a YouTube video URL, and VERI-Bot will extract the transcript and analyze the content to answer questions.
    
-![YouTube Transcript Example](https://github.com/chiruu12/VERI-Bot/assets/veri_bot_youtube_videos.png)
+![YouTube Transcript Example](https://github.com/chiruu12/VERI-Bot/blob/main/assets/veri_bot_youtube_videos.png)
 
 ## Getting Started
 ### Prerequisites
