@@ -31,7 +31,7 @@ This is how the home page looks like!
 ### 1. Uploading PDFs to Update Knowledge Base
 Users can easily upload PDFs through the sidebar. VERI-Bot will automatically extract the content and update its knowledge base.
    
-![PDF Upload Example](https://github.com/chiruu12/VERI-Bot/blob/main/assets/veri_bot_home.png)
+![PDF Upload Example](https://github.com/chiruu12/VERI-Bot/blob/main/assets/veri_bot_pdf.png)
 
 ### 2. Research Paper Retrieval
 You can retrieve relevant research papers based on your query using VERI-Bot's seamless integration with arXiv and Google Scholar.
